@@ -1,4 +1,4 @@
-# ETHAVAX1 Smart Contract
+# ETHAVAX1 SMART CONTRACT PROJECT - FUNCTIONS AND ERRORS
 
 This Ethereum smart contract is designed to demonstrate the use of `require()`, `assert()`, and `revert()` statements. The contract allows users to deposit, transfer, and withdraw funds.
 
@@ -49,8 +49,12 @@ Allows users to withdraw a specified amount of funds from their account.
 
 ## Getting Started
 
-1. Deploy the smart contract to an Ethereum network.
-2. Interact with the contract using an Ethereum wallet or a DApp.
+1. Copy and Paste the ETHAVAX1.sol source code to Remix (remix.ethereum.org).
+2. Use the appropriate compiler (I used version 0.8.18)
+3. Click compile ETHAVAX1.sol, then go to deploy & run transactions tab.
+4. Choose the name of the project in the dropdown of the Contract, then click deploy.
+5. Under the deployed contracts choose name of the deployed project. 
+7. Interact with the different functions of the contract (check Usage).
 
 ## Usage
 
@@ -60,7 +64,7 @@ Allows users to withdraw a specified amount of funds from their account.
 
 ## Disclaimer
 
-This smart contract is for educational purposes only. Use it at your own risk. The contract may have security vulnerabilities, and it is not recommended for deployment on the mainnet without proper auditing.
+This smart contract is for educational purposes only. Use it at your own risk. The contract may have security vulnerabilities, and it is not recommended for deployment on the mainnet without proper auditing. This is smart contract was only designed to demonstrate the use of `require()`, `assert()`, and `revert()` statements.
 
 ## License
 
