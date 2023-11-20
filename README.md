@@ -66,6 +66,11 @@ Allows users to withdraw a specified amount of funds from their account.
 
 This smart contract is for educational purposes only. Use it at your own risk. The contract may have security vulnerabilities, and it is not recommended for deployment on the mainnet without proper auditing. This smart contract was designed to only demonstrate the use of `require()`, `assert()`, and `revert()` statements.
 
+## Author
+
+  - Mendizabal, Jed Marco
+    - GitHub: @MarcoJSY
+
 ## License
 
 This smart contract is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
