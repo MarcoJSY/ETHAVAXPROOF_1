@@ -64,7 +64,7 @@ Allows users to withdraw a specified amount of funds from their account.
 
 ## Disclaimer
 
-This smart contract is for educational purposes only. Use it at your own risk. The contract may have security vulnerabilities, and it is not recommended for deployment on the mainnet without proper auditing. This is smart contract was only designed to demonstrate the use of `require()`, `assert()`, and `revert()` statements.
+This smart contract is for educational purposes only. Use it at your own risk. The contract may have security vulnerabilities, and it is not recommended for deployment on the mainnet without proper auditing. This smart contract was designed to only demonstrate the use of `require()`, `assert()`, and `revert()` statements.
 
 ## License
 
