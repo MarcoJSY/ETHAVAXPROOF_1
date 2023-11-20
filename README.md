@@ -54,7 +54,7 @@ Allows users to withdraw a specified amount of funds from their account.
 3. Click compile ETHAVAX1.sol, then go to deploy & run transactions tab.
 4. Choose the name of the project in the dropdown of the Contract, then click deploy.
 5. Under the deployed contracts choose name of the deployed project. 
-7. Interact with the different functions of the contract (check Usage).
+7. Interact with the different functions of the contract (check Functions or Usage).
 
 ## Usage
 
